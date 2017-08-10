@@ -1,0 +1,11 @@
+D:\Workspaces\CrudBasico\CrudBasico\bin\Debug\CrudBasico.exe.config
+D:\Workspaces\CrudBasico\CrudBasico\bin\Debug\CrudBasico.exe
+D:\Workspaces\CrudBasico\CrudBasico\bin\Debug\CrudBasico.pdb
+D:\Workspaces\CrudBasico\CrudBasico\obj\Debug\CrudBasico.csprojResolveAssemblyReference.cache
+D:\Workspaces\CrudBasico\CrudBasico\obj\Debug\CrudBasico.Properties.Resources.resources
+D:\Workspaces\CrudBasico\CrudBasico\obj\Debug\CrudBasico.csproj.GenerateResource.Cache
+D:\Workspaces\CrudBasico\CrudBasico\obj\Debug\CrudBasico.exe
+D:\Workspaces\CrudBasico\CrudBasico\obj\Debug\CrudBasico.pdb
+D:\Workspaces\CrudBasico\CrudBasico\obj\Debug\CrudBasico.frmConsulta.resources
+D:\Workspaces\CrudBasico\CrudBasico\obj\Debug\CrudBasico.frmCadastro.resources
+D:\Workspaces\CrudBasico\CrudBasico\obj\Debug\CrudBasico.frmLogin.resources
